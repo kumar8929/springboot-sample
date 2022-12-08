@@ -5,7 +5,7 @@
   - Install Maven
   
 # Clone code from github:
-    git clone 
+    git clone https://github.com/kumar8929/springboot-sample.git
     cd pring-boot-hello
 # Build Maven Artifact:
     mvn clean install
